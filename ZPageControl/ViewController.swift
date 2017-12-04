@@ -56,7 +56,6 @@ class ViewController: UIViewController {
         pageControl4.currentPage = 4
         pageControl4.dotRadius = 0
         view.addSubview(pageControl4)
-        
     }
 
     override func didReceiveMemoryWarning() {
