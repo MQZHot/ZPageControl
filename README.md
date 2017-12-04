@@ -4,7 +4,7 @@
 
 You can use the ZPageControl custom dot appearance and set the dot picture
 
-![image](https://github.com/MQZHot/ZGIFImage/raw/master/picture.png)
+![image](https://github.com/MQZHot/ZPageControl/raw/master/picture.png)
 
 ## Install
 
