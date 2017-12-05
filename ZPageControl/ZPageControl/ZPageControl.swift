@@ -65,9 +65,7 @@ public class ZPageControl: UIControl {
     }
     /// hidesForSinglePage
     var hidesForSinglePage: Bool = false {
-        didSet {
-            isHidden = hidesForSinglePage && numberOfPages == 1 ? true : false
-        }
+        didSet { isHidden = hidesForSinglePage && numberOfPages == 1 ? true : false }
     }
     fileprivate var items = [UIImageView]()
     fileprivate func changeColor() {
